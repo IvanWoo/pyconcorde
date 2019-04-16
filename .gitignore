@@ -1,8 +1,9 @@
 *.pyc
 concorde/_concorde.c
+concorde/_concorde.cpython-37m-darwin.so
 
 data/
 build/
-concorde.egg-info/
+pyconcorde.egg-info/
 
 .python-version
