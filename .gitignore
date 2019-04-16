@@ -1,6 +1,5 @@
 *.pyc
 concorde/_concorde.c
-concorde/_concorde.cpython-37m-darwin.so
 
 data/
 build/
